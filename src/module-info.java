@@ -1,0 +1,3 @@
+module dsa {
+	requires junit;
+}
